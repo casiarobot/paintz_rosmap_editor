@@ -1,3 +1,5 @@
+# This Project publishing map_edited ros topic with the modified map image
+
 # PaintZ 
 
 PaintZ is a simple drawing program for the web.
