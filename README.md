@@ -1,4 +1,4 @@
-# This Project publishing map_edited ros topic with the modified map image
+# This Project publishing /map_edited ros topic with the modified map image
 
 # PaintZ 
 
